@@ -13,4 +13,4 @@ if(process.env.NODE_ENV === "production"){
 
 ```
 ---------------
-and then you don't see react devtools in your browser inception bar
+and then you don't see react devtools in your browser inspect
