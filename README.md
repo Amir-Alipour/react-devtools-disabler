@@ -2,7 +2,8 @@
 ---------------------------
 some time you need disable the react devtools on your production
 
-you can copy or donwload code from here and import you code and with check a little condition you disable your react devtools
+you can copy or download code from here and import in your code,
+and with check a little condition disable your react devtools
 
 ```
 // import or copy disableReactDevTools()
